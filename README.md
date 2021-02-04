@@ -1,4 +1,4 @@
-# Leaders Board 
+# Leaders Board Mini Project
 
 
 # Getting Started with Create React App
